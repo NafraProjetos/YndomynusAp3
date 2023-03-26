@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+
+<RevitAddIns>
+
+	<AddIn Type="Application">
+
+		<Name>NafraProjetos</Name>
+
+		<Assembly>NafraProjetos.dll</Assembly>
+
+		<AddInId>5F73D341-10CA-41A6-83AD-12181B1B0CDC</AddInId>
+
+		<FullClassName>NafraProjetos.Application</FullClassName>
+
+		<VendorId>NafraProjetos</VendorId>
+
+		<VendorDescription>https://www.nafraprojetos.com</VendorDescription>
+
+	</AddIn>
+
+</RevitAddIns>

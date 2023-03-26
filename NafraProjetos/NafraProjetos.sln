@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NafraProjetos", "NafraProjetos\NafraProjetos.csproj", "{F99E569A-9502-44E1-9C8C-EDF75E930EC5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{B8A422BB-716D-48C1-8F3F-4A96AF3EC1ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F99E569A-9502-44E1-9C8C-EDF75E930EC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F99E569A-9502-44E1-9C8C-EDF75E930EC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F99E569A-9502-44E1-9C8C-EDF75E930EC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F99E569A-9502-44E1-9C8C-EDF75E930EC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8A422BB-716D-48C1-8F3F-4A96AF3EC1ED}.Debug|Any CPU.ActiveCfg = Debug
+		{B8A422BB-716D-48C1-8F3F-4A96AF3EC1ED}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4439BC14-4753-40FD-A812-EA8AF9220109}
+	EndGlobalSection
+EndGlobal
