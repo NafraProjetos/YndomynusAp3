@@ -1,0 +1,89 @@
+22/03/2023 09:49:52	Este log contém informações sobre a operação do esquema importado no projeto 'Database1' no computador 'ADMINISTRATOR' pelo usuário 'natha'.
+22/03/2023 09:49:52	A importação do esquema de banco de dados foi iniciada.
+22/03/2023 09:49:59	Coletando credenciais do banco de dados
+22/03/2023 09:49:59	Coletando opções de banco de dados
+22/03/2023 09:49:59	Reunindo a opção de configuração no escopo do banco de dados genérico
+22/03/2023 09:49:59	Coletando usuários
+22/03/2023 09:49:59	Coletando funções
+22/03/2023 09:49:59	Coletando funções de aplicativo
+22/03/2023 09:49:59	Coletando associações de função
+22/03/2023 09:49:59	Coletando grupos de arquivos
+22/03/2023 09:49:59	Coletando catálogos de texto completo
+22/03/2023 09:49:59	Coletando assemblies
+22/03/2023 09:49:59	Coletando certificados
+22/03/2023 09:49:59	Coletando chaves assimétricas
+22/03/2023 09:49:59	Coletando chaves simétricas
+22/03/2023 09:49:59	Coletando chaves simétricas criptografadas
+22/03/2023 09:49:59	Coletando esquemas
+22/03/2023 09:49:59	Coletando coleções de esquema XML
+22/03/2023 09:49:59	Coletando tipos de dados definidos pelo usuário
+22/03/2023 09:49:59	Coletando tipos definidos pelo usuário
+22/03/2023 09:49:59	Coletando tipos de tabela
+22/03/2023 09:49:59	Coletando chaves exclusivas para tipos de tabela
+22/03/2023 09:49:59	Coletando chaves primárias para tipos de tabela
+22/03/2023 09:50:00	Reunindo índices para tipos de tabela
+22/03/2023 09:50:00	Coletando restrições de verificação para tipos de tabela
+22/03/2023 09:50:00	Coletando restrições padrão para tipos de tabela
+22/03/2023 09:50:00	Coletando funções de partição
+22/03/2023 09:50:00	Coletando esquemas de partição
+22/03/2023 09:50:00	Coletando funções
+22/03/2023 09:50:00	Coletando funções criptografadas
+22/03/2023 09:50:00	Coletando agregações
+22/03/2023 09:50:00	Coletando procedimentos
+22/03/2023 09:50:00	Coletando procedimentos criptografados
+22/03/2023 09:50:00	Coletando tabelas
+22/03/2023 09:50:00	Coletando chaves primárias
+22/03/2023 09:50:00	Coletando restrições exclusivas
+22/03/2023 09:50:00	Coletando chaves estrangeiras
+22/03/2023 09:50:00	Coletando restrições padrão
+22/03/2023 09:50:00	Coletando restrições de verificação
+22/03/2023 09:50:00	Coletando exibições
+22/03/2023 09:50:00	Coletando exibições criptografadas
+22/03/2023 09:50:00	Coletando índices
+22/03/2023 09:50:00	Coletando estatísticas
+22/03/2023 09:50:00	Coletando listas de palavras irrelevantes de índice de texto completo
+22/03/2023 09:50:00	Coletando listas de propriedades de pesquisa
+22/03/2023 09:50:00	Coletando propriedades de pesquisa
+22/03/2023 09:50:00	Coletando índices de texto completo
+22/03/2023 09:50:00	Coletando índices de repositório de coluna
+22/03/2023 09:50:00	Coletando índices espaciais
+22/03/2023 09:50:00	Coletando índices XML
+22/03/2023 09:50:00	Reunindo índices XML Seletivos
+22/03/2023 09:50:00	Coletando gatilhos criptografados
+22/03/2023 09:50:00	Coletando gatilhos
+22/03/2023 09:50:00	Coletando gatilhos ddl criptografados e clr
+22/03/2023 09:50:00	Coletando gatilhos ddl
+22/03/2023 09:50:00	Criando restrições de borda
+22/03/2023 09:50:00	Coletando sinônimos
+22/03/2023 09:50:00	Coletando padrões
+22/03/2023 09:50:00	Coletando ligações uddt de restrições de dados
+22/03/2023 09:50:00	Coletando regras
+22/03/2023 09:50:00	Coletando ligações uddt de restrições de dados
+22/03/2023 09:50:00	Coletando tipos de mensagem
+22/03/2023 09:50:00	Coletando filas
+22/03/2023 09:50:00	Coletando contratos
+22/03/2023 09:50:00	Coletando serviços
+22/03/2023 09:50:00	Coletando notificações de eventos
+22/03/2023 09:50:00	Coletando ligações de serviço remoto
+22/03/2023 09:50:00	Coletando prioridades do agente
+22/03/2023 09:50:00	Coletando assinaturas
+22/03/2023 09:50:00	Coletando opções de compactação
+22/03/2023 09:50:00	Coletando tipos de sequência
+22/03/2023 09:50:00	Reunindo as políticas de segurança
+22/03/2023 09:50:00	Coletar chaves de criptografia de coluna
+22/03/2023 09:50:00	Coletando chaves mestre de coluna
+22/03/2023 09:50:00	Coletando fontes de dados externas
+22/03/2023 09:50:00	Coletando formatos de arquivo externo
+22/03/2023 09:50:00	Coletando tabelas externas
+22/03/2023 09:50:00	Coletando opções de compactação de índice XML
+22/03/2023 09:50:00	Coletando permissões de banco de dados
+22/03/2023 09:50:00	Coletando propriedades estendidas
+22/03/2023 09:50:00	Coletando assemblies
+22/03/2023 09:50:00	Coletando credenciais
+22/03/2023 09:50:00	Coletando logons
+22/03/2023 09:50:00	Coletando auditorias de servidor
+22/03/2023 09:50:02	Examinando projeto para elementos duplicados
+22/03/2023 09:50:02	Processamento de elementos duplicados concluído
+22/03/2023 09:50:03	Importação do banco de dados concluída.
+22/03/2023 09:50:03	Um resumo da importação foi salvo no seguinte local: C:\Users\natha\source\repos\Database1\Database1\Importar Logs de Esquema\Database1_20230322124952.log.
+22/03/2023 09:50:03	Clique em Concluir para continuar...
