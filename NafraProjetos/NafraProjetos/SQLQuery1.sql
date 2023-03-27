@@ -1,1 +1,0 @@
-﻿SELECT NomeJob AS 'Nome do JOB', DataInicio AS 'Data Início', DataEdificacao AS 'Data de construção', Area AS 'Área', Altura AS 'Altura' FROM Job WHERE Usuario_Id = 1
